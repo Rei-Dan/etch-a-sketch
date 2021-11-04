@@ -1,0 +1,62 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  border: solid black 2px;
+  height: 400px;
+  width: 400px;
+  margin-left: 400px;
+  margin-top: 200px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container div {
+  height: auto;
+  width: 23px;
+  border: black solid 1px;
+  /* flex: 1 1 auto; */
+}
+
+.buttondiv {
+  text-align: center;
+}
+
+.blacked-out {
+  background-color: black;
+}
+
+.redded {
+  background-color: red;
+}
+
+.blued {
+  background-color: blue;
+}
+
+.greened {
+  background-color: green;
+}
+
+.yellowed {
+  background-color: yellow;
+}
+
+.oranged {
+  background-color: orange;
+}
+
+.pinked {
+  background-color: pink;
+}
+
+.browned {
+  background-color: brown;
+}
+
+.purpled {
+  background-color: purple;
+}
